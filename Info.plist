@@ -15,9 +15,7 @@
 		<string>LevelsWorld2</string>
 		<string>MainGameScene</string>
 		<string>LevelCompleteScene</string>
-		<string>SettingsScene</string>
 		<string>CreditsScene</string>
-		<string>StoreScene</string>
 		<string>HelperClass</string>
 	</array>
 	<key>Description</key>
